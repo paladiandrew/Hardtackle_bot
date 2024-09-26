@@ -1,0 +1,7 @@
+aiogram
+aiohttp
+pandas
+numpy
+requests
+python-dotenv
+openpyxl
